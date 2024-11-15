@@ -9,8 +9,6 @@
 示例：
   查询单个IP地址的信息：
     ./ipThreatTools -ip 192.168.1.1
-![Uploading image.png…]()
-
 
   从文件批量查询IP地址信息：
     ./ipThreatTools -file ips.txt
